@@ -1,5 +1,5 @@
 import asyncio
-from assignment.scraper.generic_scrapper import GenericPlaywrightScraper
+from scraper.generic_scrapper import GenericPlaywrightScraper
 
 if __name__ == "__main__":
     
